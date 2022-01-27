@@ -1,0 +1,13 @@
+
+
+#package:hover{
+    background-color: #0f223f;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    transform: scale(1.2);
+    transition: transform 1s ease-in-out;
+}
+#hot-offer{
+    margin-left: -50px;
+    margin-top: -15px;
+}
